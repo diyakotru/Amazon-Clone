@@ -16,5 +16,6 @@ This is a simple Amazon clone homepage built using only HTML and CSS. The design
 ## Preview
 
 ![image](https://github.com/user-attachments/assets/5f34c901-7d4f-4883-bc75-19687a49eef2)
-![image](https://github.com/user-attachments/assets/2fc3eaca-8cb7-4f3b-9abd-70c32ddf9e8a)
+![image](https://github.com/user-attachments/assets/b6707f3f-7f3e-417d-85a0-86a4e22bfe54)
+
 
